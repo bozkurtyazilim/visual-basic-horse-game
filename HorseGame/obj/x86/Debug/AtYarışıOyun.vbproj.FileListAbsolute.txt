@@ -1,0 +1,15 @@
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.exe
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.pdb
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.xml
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.Form1.resources
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.Resources.resources
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.vbproj.GenerateResource.Cache
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.exe
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.xml
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.pdb
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.exe.config
+c:\users\halit bozkurt\documents\visual studio 2010\Projects\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.isimgir.resources
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.exe.config
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.exe
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.xml
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.pdb

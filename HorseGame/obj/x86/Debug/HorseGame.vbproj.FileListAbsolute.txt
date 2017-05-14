@@ -1,0 +1,15 @@
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.exe.config
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.exe
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.pdb
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\bin\Debug\AtYarışıOyun.xml
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.Form1.resources
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.Resources.resources
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\HorseGame.vbproj.GenerateResource.Cache
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.exe
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.xml
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.pdb
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\AtYarışıOyun\obj\x86\Debug\AtYarışıOyun.changeName.resources
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\HorseGame\bin\Debug\AtYarışıOyun.exe.config
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\HorseGame\obj\x86\Debug\AtYarışıOyun.exe
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\HorseGame\obj\x86\Debug\AtYarışıOyun.xml
+C:\Users\Alpago Bozkurt\Desktop\Ders8_AtYarışıOyun_BozkurtYazılım\AtYarışıOyun\HorseGame\obj\x86\Debug\AtYarışıOyun.pdb
